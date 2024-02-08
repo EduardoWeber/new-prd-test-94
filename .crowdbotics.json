@@ -1,0 +1,14 @@
+{
+  "scaffold": {
+    "type": "react-native",
+    "version": "2.6.3",
+    "cookiecutter_context": {
+      "project_name": "New PRD Test",
+      "project_slug": "new_prd_test_94",
+      "project_dash_slug": "new-prd-test-94",
+      "project_description": "This react_native application was built with Crowdbotics www.crowdbotics.com",
+      "owner_email": "eduardo@crowdbotics.com",
+      "ssh_key_fingerprint": ""
+    }
+  }
+}
